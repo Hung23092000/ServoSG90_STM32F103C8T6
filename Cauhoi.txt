@@ -1,0 +1,9 @@
+1. Biến đếm tại sao lại là 20000
+2. Làm sao để động cơ xoay cùng chiều 0->180 và 180->0 
+3. Khi mà dùng TIM2 lưu ý điều j 
+4. Chân dữ liệu PB0 đầu ra là tín hiệu j 
+5. Muốn cho động cơ quay ko nhiễu nên làm j 
+6. Tại sao lại có delay 
+7. Vì sao phải quan tâm tới bộ chia clock 
+8. Làm sao để động cơ ko bị liệt khi quay ngược 
+,.... vân vân và mây mây 
